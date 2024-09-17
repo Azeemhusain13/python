@@ -1,1 +1,1 @@
-# python
+This repository contains the solutions and explanations for the coding problems I solve daily across various platforms like HackerRank, Codeforces, and Kaggle. The purpose of this repository is to track my progress, refine my coding skills, and document my journey in mastering data structures, algorithms, and machine learning.
